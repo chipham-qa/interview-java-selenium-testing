@@ -25,7 +25,7 @@
 
 ![example3](https://user-images.githubusercontent.com/124520513/218729273-d68067bc-0ea6-4c31-9db8-1e1345aba193.png)
 
- **Question 4: What is the different between overloading and overloading?**
+ **Question 4: What is the different between method overloading and method overriding?**
 - Answer: In summary, method overloading allows defining multiple methods with the same name but different parameters, while method overriding allows a subclass to provide its own implementation of a method that is already defined in its parent class.
  
  ![example4](https://user-images.githubusercontent.com/124520513/218731615-3ac217a2-1372-4279-8c13-4ce8f216c6d4.png)
